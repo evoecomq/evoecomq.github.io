@@ -27,6 +27,8 @@ Our interest in endosymbiosis stemmed from the serendipitous discovery that one 
 
 We are studying co-evolution in this system by exploring the potential for counter-adaptations in the host, such as resistance (to feminisation) in infected lines and/or mate discrimination. This work is centred upon _Eurema hecabe_, but we are also keen to see whether this strain of _Wolbachia_ has spread horizontally to closely related butterflies or other arthropods that interact with E. hecabe. The presence of feminising _Wolbachia_ offers outstanding possibilities for gaining insights into functional and evolutionary aspects of sex determination and sex differentiation, including the role played by epigenetic factors (such as DNA methylation).
 
+----
+
 **Predicting adaptive potential**
 
 We also have interest in understanding the extent to which evolutionary genetic factors can explain contemporary species distributions, and the potential for such populations and species to respond adaptively to environmental change. This work is done in collaboration with Dr. Carla Sgro (Monash University) and is based on findings in Drosophila suggesting that restricted tropical species may in fact lack adequate amounts of genetic variation for coping with environmental stress. Our interest is to study these phenomena in _Eurema_ butterflies, which have quite different life histories than flies, yet which show similar distributional patterns and are also amenable to lab-based quantitative genetics.
