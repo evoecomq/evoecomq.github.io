@@ -20,6 +20,7 @@ navbar-links:
   About: "about"
   Research: "research"
   People: "people"
+  Publications: "publications"
   Blog: "index"
 
 # Image to show in the navigation bar - image must be a square (width = height)
