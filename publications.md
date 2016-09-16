@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Evolutionary Ecology Lab
-subtitle: Publications
+title: Publications
 ---
 
 # 2016

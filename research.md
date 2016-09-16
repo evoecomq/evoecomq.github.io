@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Evolutionary Ecology Lab
-subtitle: Research
+title: Research
 ---
 
 **Sexual selection, conflict, and the evolution of visual mating signals**
