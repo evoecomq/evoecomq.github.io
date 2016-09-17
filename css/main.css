@@ -518,7 +518,7 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #cccccc;
+  border-top: none;
   background-color: #ffffff;
   margin: 0;
   padding: 0;
