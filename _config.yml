@@ -8,7 +8,7 @@ url: "http://evoecomq.github.io"
 baseurl: ""
 
 # Name of website
-title: Ecolutionary Ecology MQ
+title: Evolutionary Ecology MQ
 
 # Short description of your site
 description: Macquarie University
@@ -21,6 +21,7 @@ navbar-links:
   Research: "research"
   People: "people2"
   Publications: "publications"
+  Collaborators: "collaborators"
   Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -33,9 +34,6 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Evolutionary Ecology Lab
-  #email: "austevolutionsociety@gmail.com"
-  #facebook: groups/95240533874/  # eg. daattali
-  #twitter: austevolsoc   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
