@@ -4,7 +4,8 @@ title: Evolutionary Ecology Lab
 subtitle: Macquarie University
 css: "/css/index.css"
 bigimg:
-  - "/img/big-imgs/flower.JPG" : "Flower"
+  - "/img/big-imgs/flower.JPG" : "Probably a flower (Tom White)"
+  - "/img/big-imgs/gaster.JPG" : "Gasteracantha fornicata (Tom White)"
 ---
 
 We are interested in addressing fundamental questions in evolution, genetics and behaviour. Broadly, our research spans:
