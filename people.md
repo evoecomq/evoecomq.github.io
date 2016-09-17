@@ -7,8 +7,7 @@ layout: page
 
 ----
 
-<img src="/img/people/kate.png" style="float:left;"/>
-<h3 style="float:right;">Dr. Kate Lynch is a philosopher-biologist with interests in how methodological tools are used to make claims about genetic causes. Her current research focuses on estimating the prevalence and degree of gene-environment covariance (covGE) in heritability estimates.</h3>
+<img src="/img/people/kate.png" style="float:left;"/><h6 style="float:right;">Dr. Kate Lynch is a philosopher-biologist with interests in how methodological tools are used to make claims about genetic causes. Her current research focuses on estimating the prevalence and degree of gene-environment covariance (covGE) in heritability estimates.</h6>
 
 ----
 
