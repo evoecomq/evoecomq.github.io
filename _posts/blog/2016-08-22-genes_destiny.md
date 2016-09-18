@@ -6,7 +6,7 @@ categories: blog
 author: Kate Lynch
 ---
 
-_Originally published at [The Conversation](https://theconversation.com/genes-are-not-destiny-environment-and-education-still-matter-when-it-comes-to-intelligence-63775)_
+***Originally published at [The Conversation](https://theconversation.com/genes-are-not-destiny-environment-and-education-still-matter-when-it-comes-to-intelligence-63775)***
 
 Recent research has suggested that [academic performance](http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2016107a.html), [reading ability](http://www.tandfonline.com/doi/abs/10.1080/10888438.2013.800521) and [IQ](http://www.nature.com/mp/journal/v19/n2/abs/mp2012184a.html) have a genetic basis. This reinforces the popular notion that intelligence and related cognitive capacities are somehow “in our genes”.
 
