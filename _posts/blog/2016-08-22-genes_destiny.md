@@ -68,4 +68,6 @@ Unfortunately, racism still persists, as does prejudice in many other forms. Bec
 
 There is more work to be done to uncover the environmental factors associated with genes. But we should pay close attention, as this information can be used to create a fairer education system for all.
 
+***Kate Lynch***
+
 <img src="https://counter.theconversation.edu.au/content/63775/count.gif" alt="The Conversation" width="1" height="1" />
