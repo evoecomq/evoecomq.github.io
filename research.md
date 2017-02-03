@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Sexual selection, conflict, and the evolution of visual mating signals lala**
+#### Sexual selection, conflict, and the evolution of visual mating signals
 
 Many animals use colour signals for sexual signalling. Our interest is in understanding the evolution of the most exaggerated versions of these signals, such as the extremely
 bright and iridescent structural colours of tropical butterflies and other insects. These colours are often limited to males, or considerably more exaggerated in this sex, and are known to be used in various realms of sexual competition. In the case where such a colour badge is used to indicate mate quality, theory expects them to become highly exaggerated (and, hence, costly), sexually dimorphic, and strongly condition-dependent. Empirical studies across a range of animals have also demonstrated that these traits exhibit higher genetic variances than most other non-sexual traits, probably because their expression is strongly integrated into organismal development and physiology.
