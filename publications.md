@@ -7,13 +7,16 @@ layout: page
 
 #### 2016
 
-Rankin KJ, McLean CA, Kemp DJ, Stuart-Fox D (2016) [The genetic basis of discrete and quantitative colour variation in the polymorphic lizard, _Ctenophorus decresii_](http://dx.doi.org/10.1186/s12862-016-0757-2).  
+Rankin KJ, McLean CA, Kemp DJ, Stuart-Fox D (2016)  
+[The genetic basis of discrete and quantitative colour variation in the polymorphic lizard, _Ctenophorus decresii_](http://dx.doi.org/10.1186/s12862-016-0757-2).  
 _BMC Evolutionary Biology_ 16:179-185.
 
-White TE, Kemp DJ (2016) [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
+White TE, Kemp DJ (2016)  
+[Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017).  
 _Current Biology_ 26:R517-518.  
 
-Beaumont LJ, Duursma D, Kemp DJ, Wilson PD, Evans JP (2016) [Potential impacts of a future persistent El Niño or La Niña on three subspecies of Australian butterflies](http://dx.doi.org/10.1111/btp.12356).  
+Beaumont LJ, Duursma D, Kemp DJ, Wilson PD, Evans JP (2016)  
+[Potential impacts of a future persistent El Niño or La Niña on three subspecies of Australian butterflies](http://dx.doi.org/10.1111/btp.12356).  
 _Biotropica_ 49:110-116.
 
 Andrews SC, Kemp DJ (2016) [Stress tolerance in a novel system: genetic and environmental sources of (co)variation for cold tolerance in the butterfly _Eurema smilax_](http://dx.doi.org/10.1111/aec.12341).  
