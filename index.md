@@ -8,16 +8,15 @@ bigimg:
   - "/img/big-imgs/gaster.JPG" : "Gasteracantha fornicata (Tom White)"
 ---
 
-We are interested in addressing fundamental questions in evolution, genetics and behaviour. Broadly, our research spans:
+We are interested in addressing fundamental questions in evolution, genetics and behaviour. Broadly, our research deals with:
+
+- The evolution, genetics and behavioural ecology of visual signals
 
 - Sexual selection and sexual conflict
 
-- The evolution and design of visual signals
+- Predicting adaptive potential and evolutionary trajectories in both wild and captive populations
 
 - The evolutionary dynamics of host-endosymbiont interactions
 
-- Adaptive potential in wild populations
+A general theme of the lab is to exploit the novel and often exciting empirical opportunities presented by non-model study species. We are not limited to particular taxonomic groups, but have tended to mainly use insects due to their lab tractability for evolutionary genetics. The astounding biological diversity of this group also presents intriguing possibilities for testing novel hypotheses and for novel approaches to existing hypotheses. Current projects are underway using butterflies, flies and spiders, as well as more conventional model vertebrate species such as guppies.
 
-We mainly use insects, in part because of their lab tractability, but also in recognition of the astounding chunk of biological diversity that this group represents. A general theme of the lab is to exploit the novel and often exciting empirical opportunities presented by non-model study species. To this end, current projects are underway using species of butterflies, bugs, and spiders; although we also have ongoing projects using conventional model species, such as guppies
-
-Our lab has close links to the [Behavioural Ecology Lab](https://sites.google.com/site/behaviouralecologymacquarie/home) at Macquarie University, which is headed by A/Prof. Mariella Herberstein.
