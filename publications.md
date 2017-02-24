@@ -7,17 +7,23 @@ layout: page
 
 #### 2016
 
-Rankin KJ, McLean CA, Kemp DJ, Stuart-Fox D (2016) [The genetic basis of discrete and quantitative colour variation in the polymorphic lizard, _Ctenophorus decresii_](http://dx.doi.org/10.1186/s12862-016-0757-2). _BMC Evolutionary Biology_ 16:179-185.
+Rankin KJ, McLean CA, Kemp DJ, Stuart-Fox D (2016) [The genetic basis of discrete and quantitative colour variation in the polymorphic lizard, _Ctenophorus decresii_](http://dx.doi.org/10.1186/s12862-016-0757-2).  
+_BMC Evolutionary Biology_ 16:179-185.
 
-White TE, Kemp DJ (2016) [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017) _Current Biology_ 26, R517-518.  
+White TE, Kemp DJ (2016) [Colour polymorphism](http://dx.doi.org/10.1016/j.cub.2016.03.017)  
+_Current Biology_ 26:R517-518.  
 
-Beaumont LJ, Duursma D, Kemp DJ, Wilson PD, Evans JP (2016) Potential impacts of a future persistent El Niño or La Niña on three subspecies of Australian butterflies. _Biotropica_.
+Beaumont LJ, Duursma D, Kemp DJ, Wilson PD, Evans JP (2016) [Potential impacts of a future persistent El Niño or La Niña on three subspecies of Australian butterflies](http://dx.doi.org/10.1111/btp.12356).  
+_Biotropica_ 49:110-116.
 
-Andrews SC, Kemp DJ (2016) Stress tolerance in a novel system: genetic and environmental sources of (co) variation for cold tolerance in the butterfly _Eurema smilax_. _Austral Entomology_ 41, 529-537.
+Andrews SC, Kemp DJ (2016) [Stress tolerance in a novel system: genetic and environmental sources of (co)variation for cold tolerance in the butterfly _Eurema smilax_](http://dx.doi.org/10.1111/aec.12341).  
+_Austral Entomology_ 41:529-537.
 
-White TE, Kemp DJ (2016) Colour polymorphic lures target different visual channels in prey. _Evolution_ 70:1398-1408.
+White TE, Kemp DJ (2016) [Colour polymorphic lures target different visual channels in prey](http://dx.doi.org/10.1111/evo.12948).  
+_Evolution_ 70:1398-1408.
 
-Gillings MA, Hilbert M, Kemp DJ (2016) Information in the biosphere: biological and digital worlds. _Trends in Ecology and Evolution_ 31:180-189.
+Gillings MA, Hilbert M, Kemp DJ (2016) [Information in the biosphere: biological and digital worlds](http://dx.doi.org/10.1016/j.tree.2015.12.013).  
+_Trends in Ecology and Evolution_ 31:180-189.
 
 #### 2015
 
