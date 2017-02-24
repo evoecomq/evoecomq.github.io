@@ -89,7 +89,7 @@ Giffney RA, Kemp DJ (2014) [Does it pay to care? Exploring the costs and benefit
 _Ethology_ 120:1-9.
 
 Kemp DJ, White TE (2014) [Exploring the perceptual canvas of signal evolution: commentary on Kelley & Kelley 2014](https://doi.org/10.1093/beheco/aru012).  
-_Behavioral Ecology_ Advance Access.
+_Behavioral Ecology_ 25:467-468.
 
 #### 2013
 
