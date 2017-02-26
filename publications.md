@@ -4,6 +4,9 @@ layout: page
 
 #### 2017
 
+White TE (in press) Jewelled spiders manipulate colour lure geometry to deceive prey.  
+_Biology Letters_.
+
 KE Lynch, P Bourrat (2017) [Interpreting heritability causally](http://dx.doi.org/10.1086/688933).  
 _Philosophy of Science_ 84:14-34.
 
