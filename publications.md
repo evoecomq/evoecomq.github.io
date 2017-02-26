@@ -10,7 +10,7 @@ _Philosophy of Science_ 84:14-34.
 Lynch KE (2017) [Heritability and causal reasoning](http://dx.doi.org/10.1007/s10539-016-9535-1)  
 _Biology & Philosophy_ 32:25-49.
 
-**White TE**, Dalrymple RL, Herberstein ME, Kemp DJ (2017) [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
+White TE, Dalrymple RL, Herberstein ME, Kemp DJ (2017) [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
 _Evolutionary Ecology_ 31:1-20.
 
 #### 2016
