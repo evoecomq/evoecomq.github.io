@@ -6,6 +6,7 @@ css: "/css/index.css"
 bigimg:
   - "/img/big-imgs/flower.JPG" : ""
   - "/img/big-imgs/gaster.JPG" : "Gasteracantha fornicata (T White)"
+  - "/img/big-imgs/harlequin.jpg" : "Tectocoris diophthalmus (D Kemp)"
 ---
 
 We are interested in addressing fundamental questions in evolution, genetics and behaviour. Broadly, our research deals with:
