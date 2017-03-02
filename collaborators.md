@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Major grant collaborators
+#### Major grant collaborators
 
 [**Professor Nina Wedell**](http://biosciences.exeter.ac.uk/staff/index.php?web_id=nina_wedell) (University of Exeter)  
 Professor Wedell is a Royal Society Wolfson Research Merit fellow and Research Director at the University of Exeter, UK. She holds current President-elect roles for the International Society for Behavioural Ecology (ISBE) and European Society for Evolutionary Biology (ESEB). Prof Wedell is a sole Partner Investigator for ARC Discovery-Projects grant DP140104107.
