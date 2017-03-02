@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Major research funding
+#### Major research funding
 
 Our research is funded from a breadth of government, foundation and industry sources. Presently active grants include:
 
@@ -15,11 +15,11 @@ Kemp DJ, Reznick DN. ARC Discovery-Projects grant DP160103668 ([Australian Resea
 AUD $298,600
   
 **Raising Q-fly Sterile Insect Technique to World Standard**  
-Taylor P, Kemp DJ (+47 others). HIA Research & Development grant HG14033 (Horticulture Innovation Australia)  
+Taylor P, Kemp DJ (+47 others). HIA Research & Development grant HG14033 ([Horticulture Innovation Australia](http://horticulture.com.au))  
 AUD $20,502,344 (Grant Total), Project leadership, Evolutionary Genetics Node (AU$836,000)
 
 **ARC Training Centre for Fruit Fly Biosecurity Innovation**  
-Taylor P, Clarke A, Riegler M, Kemp DJ (+17 others). ARC Industrial Transformational Training Centre grant IC150100026 (Australian Research Council)  
+Taylor P, Clarke A, Riegler M, Kemp DJ (+17 others). ARC Industrial Transformational Training Centre grant IC150100026 ([Australian Research Council](www.arc.gov.au))  
 AUD $3,732,019
 
 **How do sex ratio distorting symbionts affect the evolution of their host?**  
