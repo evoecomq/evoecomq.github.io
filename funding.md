@@ -2,6 +2,8 @@
 layout: page
 ---
 
+### Major research funding
+
 Our research is funded from a breadth of government, foundation and industry sources. Presently active grants include:
 
 **Sexual antagonism and the consequences of sex-specific selection**  
