@@ -6,8 +6,6 @@ categories: blog
 author: Kate Lynch
 ---
 
-***Originally published at [The Conversation](https://theconversation.com/genes-are-not-destiny-environment-and-education-still-matter-when-it-comes-to-intelligence-63775)***
-
 Recent research has suggested that [academic performance](http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2016107a.html), [reading ability](http://www.tandfonline.com/doi/abs/10.1080/10888438.2013.800521) and [IQ](http://www.nature.com/mp/journal/v19/n2/abs/mp2012184a.html) have a genetic basis. This reinforces the popular notion that intelligence and related cognitive capacities are somehow “in our genes”.
 
 This has led some people to [reject the importance of educational interventions](http://www.theaustralian.com.au/opinion/cash-cant-beat-genetics-in-class/news-story/6d62e16e5061602a25f6398f52eb94d6) on the grounds that spending money on nurture isn’t going to significantly affect the abilities nature has given us.
@@ -69,5 +67,7 @@ Unfortunately, racism still persists, as does prejudice in many other forms. Bec
 There is more work to be done to uncover the environmental factors associated with genes. But we should pay close attention, as this information can be used to create a fairer education system for all.
 
 ***Kate Lynch***
+
+***Originally published at [The Conversation](https://theconversation.com/genes-are-not-destiny-environment-and-education-still-matter-when-it-comes-to-intelligence-63775)***.
 
 <img src="https://counter.theconversation.edu.au/content/63775/count.gif" alt="The Conversation" width="1" height="1" />
