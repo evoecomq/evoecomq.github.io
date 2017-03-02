@@ -8,21 +8,25 @@ White TE (in press) Jewelled spiders manipulate colour lure geometry to deceive 
 _Biology Letters_.
 
 KE Lynch, P Bourrat (2017) [Interpreting heritability causally](http://dx.doi.org/10.1086/688933).  
-_Philosophy of Science_ 84:14-34.
+_Philosophy of Science_ 84:14-34.  
+| [pdf]({{ site.url }}/papers/lynch_2017_interpreting.pdf) |
 
 Lynch KE (2017) [Heritability and causal reasoning](http://dx.doi.org/10.1007/s10539-016-9535-1)  
-_Biology & Philosophy_ 32:25-49.
+_Biology & Philosophy_ 32:25-49.  
+| [pdf]({{ site.url }}/papers/lynch_2017_heritability.pdf) |
 
 White TE, Dalrymple RL, Herberstein ME, Kemp DJ (2017) [The perceptual similarity of orb-spider prey lures and flower colours](http://dx.doi.org/10.1007%2Fs10682-016-9876-x)  
-_Evolutionary Ecology_ 31:1-20.
+_Evolutionary Ecology_ 31:1-20.  
+| [pdf]({{ site.url }}/papers/white_2017_perceptual.pdf) |
+
+Kemp DJ, Thomson FE, Edwards W, Iturbe-Ormaetxe I (2017) [Incomplete offspring sex bias in Australian populations of the butterfly _Eurema hecabe_](http://dx.doi.org/10.1038/hdy.2016.85)  
+_Heredity_ 118:284-292.  
+| [pdf]({{ site.url }}/papers/kemp_2017_incomplete.pdf) |
 
 #### 2016
 
 Lynch KE (2016) [Gene-Environment Correlation](http://dx.doi.org/10.1007/978-3-319-28099-8_1470-1)  
 _Encyclopedia of Personality and Individual Differences_
-
-Kemp DJ, Thomson FE, Edwards W, Iturbe-Ormaetxe I (2016) [Incomplete offspring sex bias in Australian populations of the butterfly _Eurema hecabe_](http://dx.doi.org/10.1038/hdy.2016.85)  
-_Heredity_ 118:284-292.
 
 Rankin KJ, McLean CA, Kemp DJ, Stuart-Fox D (2016) [The genetic basis of discrete and quantitative colour variation in the polymorphic lizard, _Ctenophorus decresii_](http://dx.doi.org/10.1186/s12862-016-0757-2).  
 _BMC Evolutionary Biology_ 16:179-185.
