@@ -4,8 +4,9 @@ layout: page
 
 #### 2017
 
-White TE (in press) Jewelled spiders manipulate colour lure geometry to deceive prey.  
-_Biology Letters_.
+White TE (2017) Jewelled spiders manipulate colour lure geometry to deceive prey.  
+_Biology Letters_ 13:20170027.  
+| [pdf]({{ site.url }}/papers/white_2017_jewelled_spiders_manipulate_lure_geometry.pdf) |
 
 KE Lynch, P Bourrat (2017) [Interpreting heritability causally](http://dx.doi.org/10.1086/688933).  
 _Philosophy of Science_ 84:14-34.  
