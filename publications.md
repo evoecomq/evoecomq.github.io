@@ -4,7 +4,7 @@ layout: page
 
 #### 2017
 
-Rutowski RL, Kemp DK (2017) [Female iridescent colour ornamentation in a butterfly that displays mutual ornamentation: is it a sexual signal?](http://doi.org/10.1016/j.anbehav.2017.02.012)
+Rutowski RL, Kemp DJ (2017) [Female iridescent colour ornamentation in a butterfly that displays mutual ornamentation: is it a sexual signal?](http://dx.doi.org/10.1016/j.anbehav.2017.02.012)
 _Animal Behaviour_ 126:301-307.  
 | [pdf]({{ site.url }}/papers/rutowski_kemp_ornamentation_2017.pdf) |
 
