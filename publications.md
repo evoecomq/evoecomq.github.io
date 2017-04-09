@@ -4,6 +4,8 @@ layout: page
 
 #### 2017
 
+Rutowski RL, Kemp DK (2017) [Female iridescent colour ornamentation in a butterfly that displays mutual ornamentation: is it a sexual signal?](http://doi.org/10.1016/j.anbehav.2017.02.012)
+
 White TE (2017) [Jewelled spiders manipulate colour lure geometry to deceive prey](http://dx.doi.org/10.1098/rsbl.2017.0027)  
 _Biology Letters_ 13:20170027.  
 | [pdf]({{ site.url }}/papers/white_2017_jewelled_spiders_manipulate_lure_geometry.pdf) |
