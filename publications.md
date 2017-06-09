@@ -4,6 +4,10 @@ layout: page
 
 #### 2017
 
+White TE (2017) [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
+_Evolution_ Early View.  
+| [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
+
 Rutowski RL, Kemp DJ (2017) [Female iridescent colour ornamentation in a butterfly that displays mutual ornamentation: is it a sexual signal?](http://dx.doi.org/10.1016/j.anbehav.2017.02.012)  
 _Animal Behaviour_ 126:301-307.  
 | [pdf]({{ site.url }}/papers/rutowski_kemp_ornamentation_2017.pdf) |
