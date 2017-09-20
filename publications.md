@@ -4,8 +4,14 @@ layout: page
 
 #### 2017
 
+White TE, Rojas B, Mappes J, Rautaiala P, Kemp DJ (2017) Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments. [_Biology Letters_](http://dx.doi.org/10.1098/rsbl.2017.0375) 20170375.  
+| [pdf]({{ site.url }}/docs/White_et_al_2017_color_luminance_contrasts_predict_human_detection.pdf) | [data](https://figshare.com/articles/white_et_al_2017_biol_letters_zip/5235079) |
+
+White TE, Kemp DJ (2017) Colour polymorphic lures exploit innate preferences for colour and luminance cues in dipteran prey. [_BMC Evolutionary Biology_](http://dx.doi.org/10.1186/s12862-017-1043-7) 17, 191.  
+| [pdf]({{ site.url }}/docs/white_&_kemp_2017_colour_polymorphic_lures_exploit_innate_preferences.pdf) | [data](https://doi.org/10.6084/m9.figshare.5306080.v1) |
+
 White TE (2017) [Digest: Strengthening the link between sexual selection and colour polymorphism](http://dx.doi.org/10.1111/evo.13272)  
-_Evolution_ Early View.  
+_Evolution_ 71, 1913-1914.  
 | [pdf]({{ site.url }}/docs/white_2017_sexual_selection_polymorphism.pdf) | 
 
 Rutowski RL, Kemp DJ (2017) [Female iridescent colour ornamentation in a butterfly that displays mutual ornamentation: is it a sexual signal?](http://dx.doi.org/10.1016/j.anbehav.2017.02.012)  
