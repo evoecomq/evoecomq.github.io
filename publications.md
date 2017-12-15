@@ -4,8 +4,8 @@ layout: page
 
 #### 2017
 
-Dalrymple RL, Flores-Moreno H, Kemp DJ, White TE, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2017) Abiotic and biotic predictors of macroecological patterns in bird
-and butterfly coloration. [_Ecological Monographs_](http://dx.doi.org/10.1002/ecm.1287) Early View.  
+Dalrymple RL, Flores-Moreno H, Kemp DJ, White TE, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2017) [Abiotic and biotic predictors of macroecological patterns in bird
+and butterfly coloration](http://dx.doi.org/10.1002/ecm.1287). _Ecological Monographs_ Early View.  
 | [pdf]({{ site.url }}/papers/dalrymple_et_al_2017_abiotic_biotic_predictors_of_colour.pdf) |
 
 White TE, Rojas B, Mappes J, Rautaiala P, Kemp DJ (2017) [Colour and luminance contrasts predict the human detection of natural stimuli in complex visual environments.](http://dx.doi.org/10.1098/rsbl.2017.0375)  
