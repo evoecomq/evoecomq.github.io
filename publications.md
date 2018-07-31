@@ -2,6 +2,14 @@
 layout: page
 ---
 
+#### 2018
+
+Kemp DJ, Batistic F, Reznick DN (2018) [Predictable adaptive trajectories of sexual coloration in the wild: evidence from replicate experimental guppy populations.](http://dx.doi.org/10.1111/evo.13564) _Evolution_  Accepted Articles.  
+| [pdf]({{ site.url }}/papers/kemp_et_al_2018_predictable_adaptive_trajectories_of_sexual_coloration_in_the_wild.pdf) |
+
+Lynch KE, Morandini JS, Dar-Nimrod I, Griffiths PE (2018) [Causal Reasoning About Human Behavior Genetics: Synthesis and Future Directions](https://doi.org/10.1007/s10519-018-9909-z) _Behaviour Genetics_ 1-14.  
+| [pdf]({{ site.url }}/papers/Lynch_et_al_2018_Causal_Reasoning_Human_Behav.pdf) |
+
 #### 2017
 
 Dalrymple RL, Flores-Moreno H, Kemp DJ, White TE, Laffan S, Hemmings FA, Hitchcock TD, Moles AT (2017) [Abiotic and biotic predictors of macroecological patterns in bird
@@ -28,7 +36,7 @@ White TE (2017) [Jewelled spiders manipulate colour lure geometry to deceive pre
 _Biology Letters_ 13:20170027.  
 | [pdf]({{ site.url }}/papers/white_2017_jewelled_spiders_manipulate_lure_geometry.pdf) |
 
-KE Lynch, P Bourrat (2017) [Interpreting heritability causally](http://dx.doi.org/10.1086/688933).  
+Lynch KE, Bourrat P (2017) [Interpreting heritability causally](http://dx.doi.org/10.1086/688933).  
 _Philosophy of Science_ 84:14-34.  
 | [pdf]({{ site.url }}/papers/lynch_2017_interpreting.pdf) |
 
